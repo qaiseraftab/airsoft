@@ -1,0 +1,86 @@
+﻿Build started 3/2/2014 7:31:26 AM.
+     1>Project "C:\Users\Aftab\Desktop\projetoIIP\projetoIIP\projetoIIP.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\codigos\main.cpp
+         main.cpp
+     1>c:\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(236): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(237): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(256): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(257): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(259): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(260): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(269): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(271): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(278): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(281): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(282): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(304): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(305): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(307): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(310): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(311): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(320): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(321): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(329): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(332): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(333): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(338): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(339): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(341): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(346): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(347): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(348): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(349): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(353): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(354): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(388): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(389): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(398): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(399): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(402): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(404): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(407): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(408): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(411): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(413): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(420): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(421): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(424): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(426): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(439): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(440): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(445): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(446): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(452): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(456): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(460): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(486): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(525): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(526): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(527): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(528): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(535): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(537): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(538): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(624): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(625): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(647): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(657): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\aftab\desktop\projetoiip\codigos\main.cpp(784): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Aftab\Desktop\projetoIIP\Debug\projetoIIP.exe" /INCREMENTAL /NOLOGO C:\Phidgets\x86\phidget21.lib opencv_calib3d248d.lib opencv_contrib248d.lib opencv_core248d.lib opencv_features2d248d.lib opencv_flann248d.lib opencv_gpu248d.lib opencv_highgui248d.lib opencv_imgproc248d.lib opencv_legacy248d.lib opencv_ml248d.lib opencv_nonfree248d.lib opencv_objdetect248d.lib opencv_ocl248d.lib opencv_photo248d.lib opencv_stitching248d.lib opencv_superres248d.lib opencv_ts248d.lib opencv_video248d.lib opencv_videostab248d.lib opencv_calib3d248.lib opencv_contrib248.lib opencv_core248.lib opencv_features2d248.lib opencv_flann248.lib opencv_gpu248.lib opencv_highgui248.lib opencv_imgproc248.lib opencv_legacy248.lib opencv_ml248.lib opencv_nonfree248.lib opencv_objdetect248.lib opencv_ocl248.lib opencv_photo248.lib opencv_stitching248.lib opencv_superres248.lib opencv_ts248.lib opencv_video248.lib opencv_videostab248.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Aftab\Desktop\projetoIIP\Debug\projetoIIP.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Aftab\Desktop\projetoIIP\Debug\projetoIIP.lib" /MACHINE:X86 Debug\main.obj
+         projetoIIP.vcxproj -> C:\Users\Aftab\Desktop\projetoIIP\Debug\projetoIIP.exe
+     1>Done Building Project "C:\Users\Aftab\Desktop\projetoIIP\projetoIIP\projetoIIP.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.05
